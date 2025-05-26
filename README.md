@@ -13,7 +13,7 @@ The app features a clean and user-friendly interface, complete with country flag
 - Responsive and minimalistic design for easy use.
 
 ## Demo Screenshot
-![Calculator Screenshot](images/screenshot.png)
+![Calculator Screenshot](images/Screenshot.png)
 
 ## How to Use
 1. Clone the repository:
